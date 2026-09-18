@@ -1,6 +1,6 @@
 # Textrim v4 Blogger Template (Clean, Fast & Lightweight XML)
 
-**Textrim v4** is a high-performance, lightweight, and SEO-optimized Blogger template curated and enhanced by **[BytebaseX](https://www.bytebasex.com/)**— a dedicated developer hub and tech platform offering actionable web development guides, custom Blogger tools, and site performance solutions. 
+**Textrim v4** is a high-performance, lightweight, and SEO-optimized Blogger template curated and enhanced by **[BytebaseX](https://www.bytebasex.com/)**, a dedicated developer hub and tech platform offering actionable web development guides, custom Blogger tools, and site performance solutions. 
 
 Built with a text-first approach, Textrim v4 removes homepage image thumbnails to maximize page loading speed, minimize data consumption, and significantly improve Google Core Web Vitals scores. 
 
